@@ -1,7 +1,7 @@
 <h1 align="center">First steps</h1>
 
 <div align="center">
-Learning process and exercises
+Beginner Programming learning process and exercises
 </div>
 <!-- TABLE OF CONTENTS -->
 
