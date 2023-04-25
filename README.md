@@ -1,12 +1,15 @@
-<h1 align="center">Programming logic:First steps</h1>
+<h1 align="center">Programming Logic</h1>
 
 <div align="center">
-Learning process and exercises
+Beginner Programming learning process and exercises
 </div>
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
+- [First Steps](https://github.com/EstefaniLeon/Programming-logic/tree/main/Primeros-pasos)
+- [Primary Concepts](https://github.com/EstefaniLeon/Programming-logic/tree/main/Conceptos-primordiales)
+- [Practice with games and animations](https://github.com/EstefaniLeon/Programming-logic/tree/main/Practicando-con-juegos-y-animaciones)
 - [Built With 🛠️](#built-with-🛠️)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
