@@ -11,7 +11,6 @@ Beginner Programming learning process and exercises
 - [Primary Concepts](https://github.com/EstefaniLeon/Programming-logic/tree/main/Conceptos-primordiales)
 - [Practice with games and animations](https://github.com/EstefaniLeon/Programming-logic/tree/main/Practicando-con-juegos-y-animaciones)
 - [Built With 🛠️](#built-with-🛠️)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- BUILD WITH -->
@@ -21,13 +20,6 @@ Beginner Programming learning process and exercises
 _Technologies used in the project:_
 
 - [Sublime Text](https://www.sublimetext.com/)
-
-
-## Acknowledgements
-
-- [¿Qué es la lógica de programación y cómo aplicarla?](https://www.youtube.com/watch?v=3W983Q2NzRI&ab_channel=AluraLatam)
-- [5 dudas de quien quiere iniciarse en la carrera de programación](https://www.aluracursos.com/blog/5-dudas-de-quien-quiere-iniciarse-en-la-carrera-de-programacion)
-- [Lógica de programación: Primeros pasos](https://www.aluracursos.com/curso-online-logica-de-programacion-primeros-pasos)
 
 <!-- CONTACT -->
 
