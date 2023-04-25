@@ -1,4 +1,4 @@
-<h1 align="center">Programming logic:First steps</h1>
+<h1 align="center">First steps</h1>
 
 <div align="center">
 Learning process and exercises
